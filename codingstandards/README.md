@@ -1,11 +1,6 @@
-# DEASP Interact
+# Coding Standards
 
-DEASP Interact is a system for the Department of Employment Affairs and Social
-Protection (DEASP) aimed at resolving communication problems between users/customers
-and the service providers/staff. The system achieves this by providing an
-online solution with real time live chat among others. In effect, the system
-should reduce the waiting times for customers when they want to contact the
-department.
+This is my exampe for coding standards
 
 ## Requirements
 
